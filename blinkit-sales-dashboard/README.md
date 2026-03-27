@@ -34,5 +34,5 @@ Highlighted underperforming areas for improvement
 ✔ Clear and effective data storytelling
 
 📁 Files Included
-Blinkit Dashboard.pbix()
+Blinkit Dashboard.pbix(https://github.com/Ak-learningloop/Power-BI-Projects/blob/main/blinkit-sales-dashboard/Blinkit%20Dashboard.pbix)
 Blinkit Dashboard screenshot(https://github.com/Ak-learningloop/Power-BI-Projects/blob/main/blinkit-sales-dashboard/blinkit-sales-dashboard.png)
