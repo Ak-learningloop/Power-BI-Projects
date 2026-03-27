@@ -35,4 +35,4 @@ Highlighted underperforming areas for improvement
 
 📁 Files Included
 Blinkit Dashboard.pbix()
-Blinkit Dashboard screenshot()
+Blinkit Dashboard screenshot(https://github.com/Ak-learningloop/Power-BI-Projects/blob/main/blinkit-sales-dashboard/blinkit-sales-dashboard.png)
