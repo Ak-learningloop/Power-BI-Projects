@@ -3,6 +3,9 @@
 📌 Overview
 An interactive Power BI dashboard designed to analyze Blinkit’s sales data and uncover meaningful business insights. This project demonstrates how raw data can be transformed into clear, actionable intelligence through effective visualization.
 
+Business Requirement
+To conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimizing using various  KPIs and visualization in Power BI.
+
 🎯 Purpose
 Build hands-on experience with real-world data analysis
 Strengthen Power BI, DAX, and data storytelling skills
